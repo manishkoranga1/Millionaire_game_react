@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Millionaire_game_react/static/css/main.bab822a5.css",
+    "main.js": "/Millionaire_game_react/static/js/main.129281f8.js",
+    "static/js/845.b0b9ce34.chunk.js": "/Millionaire_game_react/static/js/845.b0b9ce34.chunk.js",
+    "static/media/src_sounds_wait.mp3": "/Millionaire_game_react/static/media/src_sounds_wait.30e329da76ae665702f7.mp3",
+    "static/media/bg.jpg": "/Millionaire_game_react/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/src_sounds_play.mp3": "/Millionaire_game_react/static/media/src_sounds_play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/src_sounds_correct.mp3": "/Millionaire_game_react/static/media/src_sounds_correct.160572d72c858155072e.mp3",
+    "static/media/src_sounds_wrong.mp3": "/Millionaire_game_react/static/media/src_sounds_wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/Millionaire_game_react/index.html",
+    "main.bab822a5.css.map": "/Millionaire_game_react/static/css/main.bab822a5.css.map",
+    "main.129281f8.js.map": "/Millionaire_game_react/static/js/main.129281f8.js.map",
+    "845.b0b9ce34.chunk.js.map": "/Millionaire_game_react/static/js/845.b0b9ce34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bab822a5.css",
+    "static/js/main.129281f8.js"
+  ]
+}
